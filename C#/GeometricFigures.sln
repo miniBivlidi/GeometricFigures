@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricFigures", "GeometricFigures\GeometricFigures.csproj", "{4F6C86A9-77B0-4CB0-8ECB-CE23022CDA79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricFigures.Tests", "GeometricFigures.Tests\GeometricFigures.Tests.csproj", "{88B2BB4E-7E33-40AB-A899-08A16E5C929A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F6C86A9-77B0-4CB0-8ECB-CE23022CDA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6C86A9-77B0-4CB0-8ECB-CE23022CDA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6C86A9-77B0-4CB0-8ECB-CE23022CDA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6C86A9-77B0-4CB0-8ECB-CE23022CDA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B2BB4E-7E33-40AB-A899-08A16E5C929A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B2BB4E-7E33-40AB-A899-08A16E5C929A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B2BB4E-7E33-40AB-A899-08A16E5C929A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B2BB4E-7E33-40AB-A899-08A16E5C929A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BCD84B9-FB3B-4A37-99ED-A2BCE995BE34}
+	EndGlobalSection
+EndGlobal
